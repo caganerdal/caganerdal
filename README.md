@@ -14,7 +14,6 @@
 <p align="center">
   <!-- TODO: LinkedIn profil linkini ekle -->
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://qratex.app"><img src="https://img.shields.io/badge/QRATEX-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="QRATEX"/></a>
   <img src="https://komarev.com/ghpvc/?username=caganerdal&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
@@ -32,7 +31,6 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Custosys](https://github.com/caganerdal)** <!-- TODO: repo linki --> | <!-- TODO: bir cümlelik açıklama --> | Swift |
-| **[QRATEX](https://qratex.app)** | QR-based customer feedback & gamification platform for venues (team project) | Web |
 | **[DynIsl](https://github.com/caganerdal/DynIsl)** | <!-- TODO: bir cümlelik açıklama --> | Swift |
 
 ### 🛠️ Tech stack
