@@ -30,8 +30,8 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[Custosys](https://github.com/caganerdal)** <!-- TODO: repo linki --> | <!-- TODO: bir cümlelik açıklama --> | Swift |
-| **[DynIsl](https://github.com/caganerdal/DynIsl)** | <!-- TODO: bir cümlelik açıklama --> | Swift |
+| **[DynIsl](https://github.com/caganerdal/DynIsl)** | A Dynamic Island for the MacBook notch plus a full system dashboard: music controls, live activities, a file shelf with on-device conversions, custom volume/brightness HUDs and an `island` CLI for terminal notifications | Swift · SwiftUI · macOS |
+| **Custosys** | System monitoring app for Mac, iPhone and iPad, with home-screen and desktop widgets | Swift · SwiftUI · WidgetKit |
 
 ### 🛠️ Tech stack
 
